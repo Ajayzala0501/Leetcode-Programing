@@ -1,9 +1,6 @@
-package org.example.leetcode.string;
-
-import org.example.Main;
+package com.programs.string;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 
 public class Uncommon_Words_from_Two_Sentences {
